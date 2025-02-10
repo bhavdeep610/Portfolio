@@ -10,7 +10,7 @@ function Type() {
           "MERN Stack Developer",
         ],
         autoStart: true,
-        loop: true,
+        loop: false,
         deleteSpeed: 60,
       }}
     />
